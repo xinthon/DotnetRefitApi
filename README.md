@@ -1,4 +1,4 @@
-`Refit` is a powerful REST client library for .NET, which simplifies the process of making HTTP requests by allowing developers to define API endpoints using interfaces. With Refit, you don't need to manually handle serialization, HTTP clients, or constructing requests. Instead, you define your REST API endpoints as C# interfaces, and Refit automatically generates the underlying implementation for you.
+**Refit** is a powerful REST client library for .NET, which simplifies the process of making HTTP requests by allowing developers to define API endpoints using interfaces. With Refit, you don't need to manually handle serialization, HTTP clients, or constructing requests. Instead, you define your REST API endpoints as C# interfaces, and Refit automatically generates the underlying implementation for you.
 
 ### Key Features of Refit:
 
